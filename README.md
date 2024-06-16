@@ -23,21 +23,21 @@ environment variables.
 
 2. Open command prompt and install the following libraries
 
-• pillow
+   • pillow
 
-• numpy
+   • numpy
 
-• PyQt5
+   • PyQt5
 
-• telepot
+   • telepot
 
-• dlib
+   • dlib
 
-• opencv
+   • opencv
+ 
+   • pandas
 
-• pandas
-
-• opencv-contrib
+   • opencv-contrib
 
 Use the following command in command prompt to install the 
 libraries : 
