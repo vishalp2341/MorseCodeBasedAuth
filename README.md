@@ -34,12 +34,9 @@ Use the following command in command prompt to install the
 libraries : 
 pip install library_name.py
 
-3. Insert the CD into the CD drive and open the folder named 
-“Morse_code”.
+3. Ensure proper installation of the libraries
 
-4. Search and open the “Morse_login.exe” file in the “Morse_code ” folder
-and wait for the welcome screen.
-
+4. open command prompt in the project folder and run the following command : python Morse_login.py
 
 Regsitration Process
 
