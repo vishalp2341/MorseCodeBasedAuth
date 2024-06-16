@@ -1,12 +1,18 @@
 # MorseCodeBasedAuthentication
 This project, developed for my final year 8th semester, implements a novel authentication system using Morse code recognition. It utilizes computer vision and machine learning techniques to verify user authentication based on their Morse code input.
 
-Features
+Features:
+
 Morse Code Recognition: Utilizes OpenCV, dlib, and Pillow to capture and process Morse code input from users via webcam.
+
 Machine Learning: Implements deep learning models (Dlib) for facial recognition to enhance security.
+
 User Interface: Developed using PyQt5 for a user-friendly experience, allowing users to interact easily with the authentication system.
+
 Data Handling: Utilizes pandas and numpy for efficient data handling and manipulation.
+
 Telecommunication: Integrates with telepot for seamless communication and messaging functionalities.
+
 
 
 Installation and usage procedure:
