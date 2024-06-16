@@ -16,6 +16,7 @@ Telecommunication: Integrates with telepot for seamless communication and messag
 
 
 Installation and usage procedure:
+
 1. Download and install Python version 3.11 from the following link : 
 https://www.python.org/downloads/release/python-3110/
 Add the path of the “Python.exe” file to the “Path” folder in System 
@@ -45,7 +46,8 @@ pip install library_name.py
 
 3. Ensure proper installation of the libraries
 
-4. open command prompt in the project folder and run the following command : python Morse_login.py
+4. Open command prompt in the project folder and run the following command :
+   python Morse_login.py
 
 Regsitration Process
 
