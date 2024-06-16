@@ -30,9 +30,12 @@ pip install library_name.py
 “Morse_code”.
 4. Search and open the “Morse_login.exe” file in the “Morse_code ” folder
 and wait for the welcome screen.
+
+
 Regsitration Process
-5. Begin the registration process by clicling the “REGISTER” button.
-6. Enter the details which will be used later in the login process, such as:
+
+6. Begin the registration process by clicling the “REGISTER” button.
+7. Enter the details which will be used later in the login process, such as:
 • Username.
 • Password.
 • Morse password.
@@ -41,22 +44,24 @@ conversion.
 Eg : The Morse code for 00 is 10 dashes ie _ _ _ _ _ _ _ _ _ _).
 • Nickname ( for password reset).
 • Re-enter Nickname.
-7. Enter the follwing registration details to train the Facial Recognition 
+8. Enter the follwing registration details to train the Facial Recognition 
 dataset:
 • Id no.
 • Name.
-8. The Camera application is opened and 121 images of the User’s face is 
+9. The Camera application is opened and 121 images of the User’s face is 
 captured.
 Note: Make sure to use a high quality webcam and sit in a well lit room.
-9. After the completion of capturing 121 images, click on the “Quit” button 
+10. After the completion of capturing 121 images, click on the “Quit” button 
 of the face id registration window (window with Green background).
-10. Close the User details regsitration window ( window with Blue
+11. Close the User details regsitration window ( window with Blue
 background).
-11. Also close the small pop-up window which shows the message reading 
+12. Also close the small pop-up window which shows the message reading 
 “Registration Successful”.
+
+
 LOGIN PROCESS
-12. Click on the “LOGIN” button on the Welcome screen.
-13.The user’s face is recognised if it is a registered user and his/her name is 
+13. Click on the “LOGIN” button on the Welcome screen.
+The user’s face is recognised if it is a registered user and his/her name is 
 displayed along with a pop-up which says “ Logged in Successfully”.
 OR
 If it is an unknown user a mail is sent to a telegram chat bot containing 
