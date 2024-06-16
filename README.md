@@ -1,4 +1,4 @@
-# MorseCodeBasedAuthentication
+# Morse Code Based Authentication
 This project, developed for my final year 8th semester, implements a novel authentication system using Morse code recognition. It utilizes computer vision and machine learning techniques to verify user authentication based on their Morse code input.
 
 Features:
