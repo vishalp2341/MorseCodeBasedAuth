@@ -98,5 +98,6 @@ have been entered as input.
 
 16. Any wrong input can be deleted by blinking when the cursor is on “<” 
 symbol (Backspace).
+
 17. After the completion of Morse code authentication , a final message 
 screen opens, indicating successful authentication.
