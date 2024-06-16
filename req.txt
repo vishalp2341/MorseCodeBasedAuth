@@ -1,0 +1,5 @@
+pillow
+numpy
+"C:\Users\visha\Desktop\dlib-19.24.1-cp311-cp311-win_amd64.whl"
+PyQt5
+telepot
