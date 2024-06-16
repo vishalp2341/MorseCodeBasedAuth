@@ -22,14 +22,23 @@ Add the path of the “Python.exe” file to the “Path” folder in System
 environment variables.
 
 2. Open command prompt and install the following libraries
+
 • pillow
+
 • numpy
+
 • PyQt5
+
 • telepot
+
 • dlib
+
 • opencv
+
 • pandas
+
 • opencv-contrib
+
 Use the following command in command prompt to install the 
 libraries : 
 pip install library_name.py
