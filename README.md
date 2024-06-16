@@ -69,6 +69,7 @@ background).
 
 
 LOGIN PROCESS
+
 12. Click on the “LOGIN” button on the Welcome screen.
 The user’s face is recognised if it is a registered user and his/her name is 
 displayed along with a pop-up which says “ Logged in Successfully”.
